@@ -44,7 +44,7 @@ LLM-driven context understanding for natural, personality-rich conversations
 🌐 Potential expansion into GUI-based systems using Tkinter, CustomTkinter, or SwiftUI
 
 ## ⭐ Features
-###🧩 Plugin-Like Thinking with Personality-Driven Logic
+### 🧩 Plugin-Like Thinking with Personality-Driven Logic
 
 ![Kouri_fixed_format](https://github.com/user-attachments/assets/a06b1a63-12a8-4537-9a3b-bf1fbe74cdcd)
 
