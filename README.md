@@ -43,17 +43,16 @@ LLM-driven context understanding for natural, personality-rich conversations
 
 🌐 Potential expansion into GUI-based systems using Tkinter, CustomTkinter, or SwiftUI
 
-## ⭐ Features
+## ⭐ Features (v1.0.0 - BETA 1)
 ### 🧩 Plugin-Like Thinking with Personality-Driven Logic
 
 ![Kouri_fixed_format](https://github.com/user-attachments/assets/a06b1a63-12a8-4537-9a3b-bf1fbe74cdcd)
 
 ### 🧮 Complex Thought Meets Character, Powered by DeepSeek-R1
 
-![Screenshot 2025-05-30 194955](https://github.com/user-attachments/assets/22acb9f0-3831-48fb-9f67-c7bc6cd2dea7)
-
-
 ![Screenshot 2025-05-30 194704](https://github.com/user-attachments/assets/0065e15f-60a5-4cef-bd56-3648eb58db9e)
+
+![Screenshot 2025-05-30 194955](https://github.com/user-attachments/assets/22acb9f0-3831-48fb-9f67-c7bc6cd2dea7)
 
 
 
