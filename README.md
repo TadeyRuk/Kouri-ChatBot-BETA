@@ -34,8 +34,7 @@ LLM-driven context understanding for natural, personality-rich conversations
 
 🔐 Privacy-First by Design Unlike cloud-based assistants, Kouri runs entirely on your machine. Your queries never leave your device, ensuring a fully private, secure AI experience—aligned with Apple’s values of personalized intelligence without compromise.
 
-🌱 Future Vision 🔄 Memory modules to remember long-term user preferences, To have her own proprietary app and website, Option to be cloud-based (Requires Internet)![Kouri_fixed_format](https://github.com/user-attachments/assets/9f5d7168-87d8-4f08-8255-76e8bc58913b)
-
+🌱 Future Vision 🔄 Memory modules to remember long-term user preferences, To have her own proprietary app and website, Option to be cloud-based (Requires Internet)
 
 🧠 Lightweight fine-tuning using local conversation history
 
@@ -45,10 +44,14 @@ LLM-driven context understanding for natural, personality-rich conversations
 
 ## ⭐ Features
 🧩 Plugin-Like Thinking with Personality-Driven Logic
+
 ![Kouri_fixed_format](https://github.com/user-attachments/assets/a06b1a63-12a8-4537-9a3b-bf1fbe74cdcd)
 
 🧮 Complex Thought Meets Character, Powered by DeepSeek-R1
+
 ![Screenshot 2025-05-30 194955](https://github.com/user-attachments/assets/22acb9f0-3831-48fb-9f67-c7bc6cd2dea7)
+
+
 ![Screenshot 2025-05-30 194704](https://github.com/user-attachments/assets/0065e15f-60a5-4cef-bd56-3648eb58db9e)
 
 
