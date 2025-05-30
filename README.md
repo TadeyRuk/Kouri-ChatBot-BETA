@@ -1,8 +1,9 @@
- ### 🧠 Meet Kouri — Your Personalized On-Device AI Companion Kouri is an intelligent, privacy-first, on-device AI assistant powered by the DeepSeek R1 7B model, handcrafted with purpose and personality by Xander. Designed to operate locally via Ollama, Kouri runs fully offline—preserving privacy, ensuring speed, and empowering personal ownership of AI.
+ ## 🧠 Meet Kouri 
+Your Personalized On-Device AI Companion Kouri is an intelligent, privacy-first, on-device AI assistant powered by the DeepSeek R1 7B model, handcrafted with purpose and personality by Xander. Designed to operate locally via Ollama, Kouri runs fully offline—preserving privacy, ensuring speed, and empowering personal ownership of AI.
 
 ✨ Core Philosophy Kouri isn’t just another chatbot. She’s a context-aware, emotionally tuned assistant that adapts to your personality, routines, and preferences—acting more like a digital companion than a tool.
 
-Built with:
+## Built with:
 
 On-device inference for low-latency, secure interactions (no cloud needed ☁️❌)
 
@@ -43,11 +44,11 @@ LLM-driven context understanding for natural, personality-rich conversations
 🌐 Potential expansion into GUI-based systems using Tkinter, CustomTkinter, or SwiftUI
 
 ## ⭐ Features
-🧩 Plugin-Like Thinking with Personality-Driven Logic
+###🧩 Plugin-Like Thinking with Personality-Driven Logic
 
 ![Kouri_fixed_format](https://github.com/user-attachments/assets/a06b1a63-12a8-4537-9a3b-bf1fbe74cdcd)
 
-🧮 Complex Thought Meets Character, Powered by DeepSeek-R1
+### 🧮 Complex Thought Meets Character, Powered by DeepSeek-R1
 
 ![Screenshot 2025-05-30 194955](https://github.com/user-attachments/assets/22acb9f0-3831-48fb-9f67-c7bc6cd2dea7)
 
